@@ -1,3 +1,11 @@
+#This is missing the API keys
+create a keys.js file inside src folder, and add this:
+
+const NEXT_PUBLIC_GOOGLE_MAPS_API_KEY = (google api key here);
+const MAP_ID = (google map id here);
+
+export {NEXT_PUBLIC_GOOGLE_MAPS_API_KEY, MAP_ID};
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
