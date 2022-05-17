@@ -29,7 +29,7 @@ export default function Map (){
     return(
         <div className="container">
             <div className="controls">
-                <h1>testing</h1>
+                <h1>testisng</h1>
             </div>
 
             <GoogleMap 
